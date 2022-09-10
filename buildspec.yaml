@@ -1,0 +1,8 @@
+version: 0.2
+
+
+phases:
+  build:
+    commands:
+      - echo entered build phase ...
+      - echo Build started on `date`
